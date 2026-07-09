@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "fb3db2c9ab481442",
+    "type": "split",
+    "children": [
+      {
+        "id": "2567a09b4f9347d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6df6e5dd9b245ac7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f03078d7ef1cb00",
+    "type": "split",
+    "children": [
+      {
+        "id": "34fb4b9ae91ec4af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93fd970b02a47f69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "be27e7f0460a87f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "6a99d9f9bb0e4e78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0d69a7dfc51afa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "788ae8dc6f368631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77656d8b4e46d234",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "585c145c9b5d2a88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "7118af92ffbd60bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8fddc535b2b8824d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "579c75c732d1a342",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "93fd970b02a47f69",
+  "lastOpenFiles": [
+    "12 Enciclopédia de Arton/Raças/Homebrew/Homebrew — Índice.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Vampiro (Traço).md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Licantropo (Traço).md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Licantropo (Traço).md.tmp.38892.d9d7335ce8fa",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Dvati (Traço).md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Dvati (Traço).md.tmp.38892.42ac2dcc18d5",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Succubus-Incubus.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Slime.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Sátiro (Homebrew).md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Pyronita.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Orc (raça).md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Oni (raça).md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Ogre (raça).md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Nephalem.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Nagah.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Kobold.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Kobold.md.tmp.38892.efd2058c9ddc",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Hollow.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Goliath.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Felis.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Feithnari.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Espectros.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Espantalho.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Ente.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Enormous.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Elfo Negro.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Elfo do Mar.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Elfo do Céu.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Elfo do Ar.md",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Elfo do Ar.md.tmp.38892.10e70c83ef9c",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Bugbear.md.tmp.38892.269986886149",
+    "12 Enciclopédia de Arton/Raças/Homebrew/Android.md.tmp.38892.b14ba13771ea",
+    "12 Enciclopédia de Arton/Raças/Homebrew",
+    "12 Enciclopédia de Arton/Ameaças/Bestiário/Homem-Piranha Capitão.md.tmp.38892.18e6c7b1a60d",
+    "12 Enciclopédia de Arton/Ameaças/Bestiário/Goblin de Sombreiro.md.tmp.38892.a3e94e0d5b24",
+    "12 Enciclopédia de Arton/Locais de Arton/Sternachten.md.tmp.38892.5474c02a9718",
+    "11 Imagens/Amara.png",
+    "11 Imagens/Primo Eduardo.png",
+    "11 Imagens/Patolino.png",
+    "11 Imagens/Ojuara.png",
+    "11 Imagens/Duran.png",
+    "11 Imagens/Buggs Bunny.png",
+    "11 Imagens/Benimaru.png",
+    "11 Imagens/Bastião do Breu.png",
+    "11 Imagens/Artorias.png",
+    "11 Imagens/Andre.png"
+  ]
+}
