@@ -1,10 +1,15 @@
 ---
-tags: [raça, homebrew, tormenta20]
-fonte: "Raças Extras (fã-material, Paranta et al.)"
-bonus-atributo: "Car +2, Des +1, Con -1"
+tags: [desambiguação]
 ---
 
-# Duplo
+# Duplo ⚠️ Nome Ambíguo
+
+Este vault tem duas entidades chamadas "Duplo". Use os links abaixo para o verbete correto:
+
+- **[[Duplo (raça)]]** — raça jogável homebrew.
+- **[[Ameaças/Bestiário/Duplo|Duplo (monstro)]]** — monstro/doppelganger oficial do Bestiário (arquivo original, nome mantido).
+
+<!-- Conteúdo original abaixo, preservado por segurança -->
 
 Metamorfo carismático inspirado em duendes/leprechauns, capaz de mudar de forma e voz por completo.
 

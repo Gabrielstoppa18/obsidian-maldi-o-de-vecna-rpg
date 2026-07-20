@@ -1,10 +1,15 @@
 ---
-tags: [ameaça, monstro, tormenta20]
-tipo: monstro
-nd: "1 a 5"
+tags: [desambiguação]
 ---
 
-# Trog
+# Trog ⚠️ Nome Ambíguo
+
+Este vault tem duas entidades chamadas "Trog". Use os links abaixo para o verbete correto:
+
+- **[[Raças/Trog|Trog (raça jogável)]]** — raça oficial do Livro Básico (arquivo original, nome mantido) — é a raça de **[[Rod Trogg]]**.
+- **[[Trog (Monstro)]]** — versão de Bestiário (ameaça/NPC hostil genérico).
+
+<!-- Conteúdo original abaixo, preservado por segurança -->
 
 Humanoides reptilianos cobertos de escamas verdes, cabeça de lagarto com crista da testa até a nuca, olhos amarelos de pupila vertical negra. Trogloditas, ou "trogs", são carnívoros ferozes que preferem carne humanoide, põem ovos e amadurecem rapidamente. Diz-se que foram criados por Tenebra a partir de uma comunidade de anões — o que explicaria seu ódio ancestral pelos anões.
 

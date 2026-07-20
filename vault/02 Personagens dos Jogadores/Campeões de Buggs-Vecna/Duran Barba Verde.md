@@ -10,7 +10,7 @@ status: ressuscitado por Vecna
 
 # Duran Barba Verde
 
-> Personagem jogador original da [[Mesa Lordran]]. Depois de sua morte, passa a existir também como **NPC recorrente** (o General ressuscitado por Vecna) na [[Mesa dos Puristas]] — daí o tag `npc-recorrente` além de `pc`.
+> Personagem jogador original da [[Mesa Lordran]]. Depois de sua morte, passa a existir também como **NPC recorrente** (o General ressuscitado por Vecna) na [[Mesa A Maldição de Vecna]] — daí o tag `npc-recorrente` além de `pc`.
 
 Anão druida, devoto de Megalokk — fala monstrês, o que lhe permite convencer um esqueleto a se juntar ao grupo logo na prisão inicial de Lordran. Um dos quatro personagens jogadores originais da **[[Mesa Lordran]]**; acorda saindo de um túmulo em um cemitério ao lado de **[[Ojuara]]**.
 

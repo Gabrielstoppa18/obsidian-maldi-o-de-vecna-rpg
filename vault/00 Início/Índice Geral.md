@@ -7,9 +7,9 @@ tags: [índice, moc]
 Vault de memória para a campanha original em Arton (Tormenta 20), rodada por Gabriel (Mestre). Objetivo final: chegar ao nível 20 e enfrentar **[[Vecna (Asloth Ferren)]]** em batalha climática, através de um ritmo lento e orgânico de desenvolvimento de personagem e subtramas.
 
 ## 🗺️ Mesas Ativas
-- [[Mesa dos Puristas]] — mesa principal, campanha Vecna
-- [[Mesa dos Sobreviventes]] — mesa paralela em Mural, jogadores caóticos malignos
-- [[Mesa Lordran]] — mesa quase concluída; eventos alimentam a Mesa dos Puristas
+- [[Mesa A Maldição de Vecna]] — mesa principal, campanha Vecna
+- [[Mesa dos Puristas]] — mesa paralela em Mural, jogadores caóticos malignos
+- [[Mesa Lordran]] — mesa quase concluída; eventos alimentam a Mesa A Maldição de Vecna
 
 ## 📚 Navegação Rápida
 - [[Linha do Tempo Geral]]
@@ -24,10 +24,11 @@ Vault de memória para a campanha original em Arton (Tormenta 20), rodada por Ga
 - [[Campanha x Livros de Tormenta]]
 - [[Enciclopédia de Arton — Índice]] — base de conhecimento do cenário oficial (deuses, raças, locais, itens, ameaças)
 
-## 🧑‍🤝‍🧑 Personagens dos Jogadores (Puristas, nível 5)
+## 🧑‍🤝‍🧑 Personagens dos Jogadores (Mesa A Maldição de Vecna, nível 5)
 - [[Al (Golem)]]
 - [[Rod Trogg]]
 - [[Jaskier]]
+- [[Al Hazar Placeto]]
 - [[Tinky Winky]] (NPC recorrente / aliado)
 
 ## ⚠️ Regras de Mesa e Filosofia

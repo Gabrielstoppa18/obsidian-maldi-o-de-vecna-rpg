@@ -205,7 +205,7 @@ Criaturas de *Ameaças de Arton*, uma nota por criatura/variante.
 ## Brutos & Indomáveis
 - [[Sapo Atroz]] — sapo gigante predatório dos pântanos.
 - [[Tabrachi]] — humanoide-tartaruga guerreiro.
-- [[Trog]] — troglodita comum das cavernas.
+- [[Trog (Monstro)|Trog]] — troglodita comum das cavernas.
 - [[Trog Anão]] — variante anã dos trogs.
 - [[Ogro]] — brutamontes clássico das histórias de Arton.
 

@@ -24,7 +24,7 @@ A Facção Puristas da campanha (destruiu Aldun com a arma do Núcleo de Dragão
 - **Al (Golem)** → raça jogável **Golem** (*Livro Básico*, p. 27).
 - **Rod Trogg** → raça jogável **Trog** (*Livro Básico*, p. 31) — o sobrenome "Trogg" é praticamente a etiqueta da raça.
 - **Tinky Winky** (Sylph, clériga de Lena) → raça **Sílfide** (*Livro Básico*, p. 30) + **Lena, Deusa da Vida** (*Deuses de Arton*), cujo domínio ("tudo relacionado a nascimento", vida, fertilidade) explica bem por que a bênção dela consegue *suprimir* a aura maligna do Livro Amaldiçoado.
-- **Quareen sobrevivente de Aldun** (Mesa dos Sobreviventes) → raça **Qareen** (*Livro Básico*, p. 26), povo de sangue "genie" ligado a planos elementais/mágicos.
+- **Quareen sobrevivente de Aldun** (Mesa dos Puristas) → raça **Qareen** (*Livro Básico*, p. 26), povo de sangue "genie" ligado a planos elementais/mágicos.
 
 ## 🏛️ Valkaria (cidade) ← Valkaria, Deusa da Aventura
 Coincidência batizada de propósito ou não, o nome ecoa **Valkaria**, a Deusa da Aventura, da Ambição e da Humanidade, atual líder do Panteão (*Deuses de Arton*, verbete "Valkaria"). A deusa tem rivalidade histórica com Tanna-Toh, a Deusa do Conhecimento — dá pra reforçar essa cidade-biblioteca-conselho como um centro secular que homenageia (ou disputa) o portfólio da deusa, sem precisar que ela apareça de fato.

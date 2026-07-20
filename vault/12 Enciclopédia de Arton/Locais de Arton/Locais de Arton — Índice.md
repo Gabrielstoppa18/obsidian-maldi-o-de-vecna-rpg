@@ -13,7 +13,7 @@ Geografia oficial do continente de Arton: o Reinado e as terras além dele, conf
 A coalizão dos sete reinos que forma o "mundo civilizado" de Arton, sob a liderança da Rainha-Imperatriz Shivara.
 
 - [[Deheon]] — o Reino Capital, fundado aos pés da estátua-prisão da deusa Valkaria.
-- [[Valkaria]] — capital do Reinado e maior metrópole de Arton, lar da Deusa.
+- [[Valkaria (Capital do Reinado)|Valkaria]] — capital do Reinado e maior metrópole de Arton, lar da Deusa.
 - [[Bielefeld]] — o Reino dos Cavaleiros, lar da Ordem da Luz.
 - [[Norm]] — cidade-sede do Castelo da Luz, berço de grandes heróis.
 - [[Wynlla]] — o Reino da Magia, magocracia de exportação arcana.
@@ -22,10 +22,10 @@ A coalizão dos sete reinos que forma o "mundo civilizado" de Arton, sob a lider
 - [[Hippiontar]] — a Baia de Hippion, cidade de sorte abençoada (ou amaldiçoada).
 - [[Ahlen]] — o Reino da Intriga, fundado sobre traição entre famílias nobres.
 - [[Thartann]] — capital de Ahlen, opulência nobre sobre miséria plebeia.
-- [[Zakharov]] — o Reino das Armas, herdeiro da tradição anã de forja.
+- [[Zakharov (Reino)|Zakharov]] — o Reino das Armas, herdeiro da tradição anã de forja.
 - [[Rhond]] — cidade-forja do Deus Menor das Armas.
 - [[Pondsmânia]] — o Reino das Fadas, território móvel e imprevisível.
-- [[Vectora]] — o Mercado nas Nuvens, cidade mercantil voadora.
+- [[Vectora (Cidade Voadora)|Vectora]] — o Mercado nas Nuvens, cidade mercantil voadora.
 - [[Academia Arcana]] — semiplano-universidade de Talude, dedicado a Wynna.
 
 ## Além do Reinado

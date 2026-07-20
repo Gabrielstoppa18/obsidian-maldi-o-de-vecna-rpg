@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"03 NPCs\"",
@@ -102,6 +102,6 @@
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 220,
-  "scale": 0.0669974499528232,
-  "close": false
+  "scale": 0.18462326225857364,
+  "close": true
 }

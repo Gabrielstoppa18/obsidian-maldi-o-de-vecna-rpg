@@ -1,10 +1,15 @@
 ---
-tags: [raça, homebrew, tormenta20]
-fonte: "Raças Extras (fã-material, Paranta et al.)"
-bonus-atributo: "For +2, Sab +1, Int -1"
+tags: [desambiguação]
 ---
 
-# Centauro
+# Centauro ⚠️ Nome Ambíguo
+
+Este vault tem duas entidades chamadas "Centauro". Use os links abaixo para o verbete correto:
+
+- **[[Centauro (raça)]]** — raça jogável homebrew.
+- **[[Ameaças/Bestiário/Centauro|Centauro (monstro)]]** — monstro oficial do Bestiário (arquivo original, nome mantido).
+
+<!-- Conteúdo original abaixo, preservado por segurança -->
 
 Humanoide equino de tamanho Grande, sempre pronto para a jornada — mas com medo de alturas.
 

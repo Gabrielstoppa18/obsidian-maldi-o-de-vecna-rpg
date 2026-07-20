@@ -16,7 +16,7 @@ Tempos depois, recebe uma carta desesperada de Sukuna pedindo ajuda — e vai se
 Durante o confronto contra Radahn em Anor Londo ([[Arco - As Fortalezas e Anor Londo]]), Patolino quebra seu próprio selo e resgata as memórias de Gojo, retomando sua forma verdadeira a tempo de ajudar a derrotar o deus.
 
 ## Status Atual
-Ativo em Lordran como Patolino/Gojo, ainda não reintegrado à Mesa dos Puristas — travado até a conclusão da [[Mesa Lordran]].
+Ativo em Lordran como Patolino/Gojo, ainda não reintegrado à Mesa A Maldição de Vecna — travado até a conclusão da [[Mesa Lordran]].
 
 ## Ligações
 - [[Ryomen Sukuna (Buggs)]]

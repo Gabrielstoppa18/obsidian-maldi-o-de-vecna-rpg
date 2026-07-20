@@ -5,7 +5,7 @@ status: quase-concluída
 
 # Mesa Lordran ("Prepare to Die")
 
-Mesa ambientada em um mundo à parte de Arton, inspirado em Dark Souls / Elden Ring. Quase completa (falta uma sessão — a final, contra Buggs). Seus eventos alimentam diretamente a **[[Mesa dos Puristas]]**: vários NPCs-chave só podem ser desenvolvidos plenamente lá após esta mesa se concluir.
+Mesa ambientada em um mundo à parte de Arton, inspirado em Dark Souls / Elden Ring. Quase completa (falta uma sessão — a final, contra Buggs). Seus eventos alimentam diretamente a **[[Mesa A Maldição de Vecna]]**: vários NPCs-chave só podem ser desenvolvidos plenamente lá após esta mesa se concluir.
 
 ## Premissa
 Quatro pessoas desaparecem de Arton sem explicação e acordam em Lordran, "escolhidas" por uma profecia para reunir o **Medalhão de Dectus** e alcançar Anor Londo. Na verdade, toda a jornada é uma manipulação de **[[Ryomen Sukuna (Buggs)|Buggs]]**, usando os jogadores como instrumento para matar deuses e roubar energia divina.
@@ -34,6 +34,6 @@ Ver [[Campeões de Buggs-Vecna — Índice]]
 - [[Ryomen Sukuna (Buggs)]]
 
 ## Ver também
-- [[Mesa dos Puristas]]
+- [[Mesa A Maldição de Vecna]]
 - [[Linha do Tempo Geral]]
 - [[Lordran]]

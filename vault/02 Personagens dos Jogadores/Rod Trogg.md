@@ -1,16 +1,20 @@
 ---
 tags: [pc, puristas]
-mesa: "[[Mesa dos Puristas]]"
+raça: Trogg
+classe: Lutador
+mesa: "[[Mesa A Maldição de Vecna]]"
 nível: 5
 ---
 
 # Rod Trogg
 
-"Morreu" em Vectora / Cidade Invertida; revivido por **[[Tenebra]]** a um preço ainda não revelado.
+Trogg lutador de rua: briguento, personalidade forte, baixa inteligência. Um dos três fundadores do grupo, junto de **[[Jaskier]]** e **[[Al (Golem)|Al]]**, na taverna onde tudo começou (ver [[Arco - A Guilda dos Mercadores]]).
 
-## Subtrama
-Pendente de definição — o preço da ressurreição ainda não foi revelado aos jogadores. Ligado à subtrama de [[Jaskier]] (Tenebra ofereceu trazer Rod de volta em troca de algo do Jaskier).
+## Morte e Ressurreição
+Esmagado por uma armadilha nas cavernas a caminho da Catedral Invertida, em Vectora ([[Arco - Elfo e Vectora]]). Revivido por **[[Tenebra]]**, através de um pacto que ela fez com Jaskier — o preço foi Jaskier se tornar seu campeão (bruxo devoto), suas asas enegrecidas para sempre.
 
 ## Ligações
 - [[Tenebra]]
 - [[Jaskier]]
+- [[Al (Golem)]]
+- [[Arco - Elfo e Vectora]]

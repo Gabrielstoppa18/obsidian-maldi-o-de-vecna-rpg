@@ -1,9 +1,15 @@
 ---
-tags: [local, arton, tormenta20]
-tipo: cidade
+tags: [desambiguação]
 ---
 
-# Vectora
+# Vectora ⚠️ Nome Ambíguo
+
+Este vault tem duas entidades chamadas "Vectora". Use os links abaixo para o verbete correto:
+
+- **[[04 Locais/Vectora|Vectora (campanha)]]** — a cidade voadora tal como jogada na Mesa A Maldição de Vecna.
+- **[[Vectora (Cidade Voadora)]]** — a cidade voadora no cenário oficial Tormenta20.
+
+<!-- Conteúdo original abaixo, preservado por segurança -->
 
 Conhecida como "o Mercado nas Nuvens", Vectora é uma extraordinária cidade mercantil voadora, assentada sobre a base de uma montanha invertida, que percorre continuamente as grandes cidades do Reinado. Criada há mais de cem anos pelo arquimago Vectorius — rival histórico de Talude, fundador da Academia Arcana — como resposta prática às longas e perigosas rotas comerciais que atormentavam Sambúrdia, sua terra natal.
 

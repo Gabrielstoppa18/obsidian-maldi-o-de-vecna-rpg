@@ -24,8 +24,8 @@ Ao concluir, libera o desenvolvimento pleno de:
 - [[Satoru Gojo]]
 - [[Príncipe Benimaru]]
 - [[Ryomen Sukuna (Buggs)]]
-para uso na [[Mesa dos Puristas]].
+para uso na [[Mesa A Maldição de Vecna]].
 
 ## Ligações
 - [[Campeões de Buggs-Vecna — Índice]]
-- [[Mesa dos Puristas]]
+- [[Mesa A Maldição de Vecna]]

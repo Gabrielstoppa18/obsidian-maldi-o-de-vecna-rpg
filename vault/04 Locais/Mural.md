@@ -5,7 +5,7 @@ status: em processo de destruição
 
 # Mural
 
-Cidade cosmopolita não-humana, palco da **[[Mesa dos Sobreviventes]]**. Sua destruição será **total**, paralela à de **[[Aldun]]**.
+Cidade cosmopolita não-humana, palco da **[[Mesa dos Puristas]]**. Sua destruição será **total**, paralela à de **[[Aldun]]**.
 
 ## Eventos
 - [[Sessão 01 - Festival e o Quareen Ferido]] — festival, quareen ferido sobrevivente de Aldun, confronto com [[Torel e os Puristas em Mural|Torel]] e quatro Puristas em um hospital.

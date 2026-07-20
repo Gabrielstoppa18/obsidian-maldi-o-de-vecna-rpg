@@ -1,10 +1,15 @@
 ---
-tags: [raça, homebrew, tormenta20]
-fonte: "Raças Extras (fã-material, Paranta et al.)"
-bonus-atributo: "Des +2, Car +1, For -1"
+tags: [desambiguação]
 ---
 
-# Kobold (raça jogável)
+# Kobold ⚠️ Nome Ambíguo
+
+Este vault tem duas entidades chamadas "Kobold". Use os links abaixo para o verbete correto:
+
+- **[[Kobold (raça)]]** — raça jogável homebrew.
+- **[[Ameaças/Bestiário/Kobold|Kobold (monstro)]]** — monstro oficial do Bestiário (arquivo original, nome mantido).
+
+<!-- Conteúdo original abaixo, preservado por segurança -->
 
 Pequeno réptil de descendência dracônica, habitante subterrâneo. Não confundir com o monstro homônimo do bestiário oficial de *Ameaças de Arton* — esta é a versão jogável do documento homebrew.
 

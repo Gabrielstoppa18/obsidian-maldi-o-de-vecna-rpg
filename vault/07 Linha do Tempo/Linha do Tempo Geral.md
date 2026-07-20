@@ -29,19 +29,19 @@ Ordem aproximada dos eventos entre as três mesas. Datas exatas ficam em aberto 
 18. ⏳ Uma sessão resta para concluir esta mesa: [[Sessão Final (Pendente)]], contra Buggs/Sukuna.
 
 ## Facção Puristas — Evento-Chave
-15. Facção Puristas recebe a arma alimentada pelo Núcleo de Dragão Vermelho.
-16. Usa a arma para destruir **[[Aldun]]** — evento de escala nuclear, destruição total.
+19. Facção Puristas recebe a arma alimentada pelo Núcleo de Dragão Vermelho.
+20. Usa a arma para destruir **[[Aldun]]** — evento de escala nuclear, destruição total.
 
-## Mesa dos Puristas (ativa, nível 5)
-17. Prólogo / recrutamento na guilda.
-18. **[[Arco - Elfo e Vectora]]** — resgate de Ed, Vorpal fundida ao braço de Al.
-19. **[[Arco - Olhos Rasgados]]** — Mão de Vecna + Livro Amaldiçoado encontrados; roubados por Duran (ressuscitado, "Revenante").
-20. **[[Arco - Biblioteca de Valkaria]]** — livro de transferência de alma de Sukuna encontrado; morte de Vharla; grupo incriminado por Vasth (Culto do Olho).
-21. **[[Sessão Recente - Fuga de Valkaria]]** — fuga pelos esgotos, execução do sargento por Al, anistia condicional de Lora, suspeita de que Sukuna = Buggs.
+## Mesa A Maldição de Vecna (ativa, nível 5)
+21. **[[Arco - A Guilda dos Mercadores]]** — Rod Trogg, Jaskier e Al se encontram numa taverna, formam grupo, entram para a Guilda dos Mercadores e cumprem sua primeira missão (recuperar uma pistola de mana).
+22. **[[Arco - Elfo e Vectora]]** — festival de Prado Verde atacado por um elfo do Culto do Olho e gnolls, roubo da Espada Vorpal; Vectora e seu submundo; morte de Rod Trogg e pacto de Jaskier com Tenebra (vira bruxo); Catedral Invertida; resgate de Ed e da espada; Vorpal fundida ao braço de Al; Al Hazar Placeto se junta ao grupo.
+23. **[[Arco - Olhos Rasgados]]** — vila perto de Valkaria com mortes misteriosas; torre antiga com um beholder fraco de guarda; Mão de Vecna + Livro Amaldiçoado encontrados; roubados por um anão mascarado, depois revelado como Duran (ressuscitado, "Revenante"), que derruba um amuleto de Megalokk.
+24. **[[Arco - Biblioteca de Valkaria]]** — Tinky Winky se junta ao grupo; livro e foto de Sukuna encontrados; a bibliotecária Vharla os leva à Câmara do Silêncio e revela informações sobre Vecna; incêndio na biblioteca; morte de Vharla (transfere visão a Tinky Winky); grupo incriminado por Vasth (Culto do Olho).
+25. **[[Sessão Recente - Fuga de Valkaria|Arco - Fuga de Valkaria e o Prazo de Lora]]** — fuga pelos esgotos; Al Hazar tenta resgatá-los e é perseguido; execução de um sargento rendido por Al; fuga via cristal de retorno até a oficina de Ed; carta de Ed para Lora; encobrimento orquestrado por um encapuzado acima de Vasth; encontro com Lora, anistia condicional e prazo para expor o Culto do Olho em Valkaria.
 
-## Mesa dos Sobreviventes (ativa, paralela)
-22. **[[Sessão 01 - Festival e o Quareen Ferido]]** — quareen sobrevivente de Aldun aparece em Mural; confronto com Torel e Puristas.
-23. **[[Sessão 02 - Despedida de Mural]]** (roteiro pronto) — destruição iminente e total de Mural.
+## Mesa dos Puristas (ativa, paralela)
+26. **[[Sessão 01 - Festival e o Quareen Ferido]]** — quareen sobrevivente de Aldun aparece em Mural; confronto com Torel e Puristas.
+27. **[[Sessão 02 - Despedida de Mural]]** (roteiro pronto) — destruição iminente e total de Mural.
 
 ## Futuro Planejado
 Ver [[Fases Macro da Campanha]] para os arcos de nível 5–20.

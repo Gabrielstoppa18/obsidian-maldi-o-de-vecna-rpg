@@ -1,11 +1,16 @@
 ---
-tags: [deus, panteão, tormenta20]
-titulo: "Deusa da Aventura, da Ambição e da Humanidade"
-alinhamento: não descrito explicitamente (liberdade, rebeldia, avessa a impor sua vontade sobre outros)
-area-de-influencia: Humanos, ambição, ousadia, evolução, conquista, aventuras
+tags: [desambiguação]
 ---
 
-# Valkaria
+# Valkaria ⚠️ Nome Ambíguo
+
+Este vault tem três entidades chamadas "Valkaria". Use os links abaixo para o verbete correto:
+
+- **[[04 Locais/Valkaria|Valkaria (campanha)]]** — a cidade tal como jogada na Mesa A Maldição de Vecna.
+- **[[Valkaria (Capital do Reinado)]]** — a cidade capital do Reinado no cenário oficial Tormenta20.
+- **[[Valkaria, a Deusa]]** — a deusa líder do Panteão que dá nome à cidade (conteúdo completo).
+
+<!-- Conteúdo original abaixo, preservado por segurança -->
 
 Valkaria é a deusa criadora da raça humana — o povo que conquistou Arton e compartilha os traços mais fortes de sua padroeira: aspiração, insatisfação e ambição sem limites. Talvez a mais imperfeita entre as divindades, é também a mais amada e glorificada, conhecida amplamente como Deusa da Ambição, título que humanos tratam como sinônimo de aspiração e determinação, mas que outras raças associam a ganância e oportunismo, chegando a ver os humanos como "pragas de gafanhotos". Também é a padroeira dos aventureiros, que melhor representam a paixão humana por conquistas e desafios: quanto mais ousados, mais ela os ama, ajudando-os moderadamente (pois sem risco não há glória) ou tornando o caminho mais perigoso, sempre garantindo recompensas generosas.
 

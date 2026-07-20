@@ -1,11 +1,15 @@
 ---
-tags: [deus, panteão, tormenta20]
-titulo: "Deusa das Trevas"
-alinhamento: não descrito explicitamente (associada a mistério, sedução e desafio a instituições)
-area-de-influencia: Noite, anões, mortos-vivos, licantropos, desobediência, criaturas noturnas ou subterrâneas, necromantes, tentação, trevas, pólvora
+tags: [desambiguação]
 ---
 
-# Tenebra
+# Tenebra ⚠️ Nome Ambíguo
+
+Este vault tem duas entidades chamadas "Tenebra". Use os links abaixo para o verbete correto:
+
+- **[[03 NPCs/Outros NPCs/Tenebra|Tenebra (NPC da campanha)]]** — ex-aliada de Vecna, mãe de Jaskier.
+- **[[Tenebra, a Deusa]]** — deusa oficial das Trevas e dos Mortos-Vivos do panteão de Arton.
+
+<!-- Conteúdo original abaixo, preservado por segurança -->
 
 Tenebra é a deusa das trevas, dos reinos cavernosos e das criaturas subterrâneas, grande rival de Azgher, o Deus-Sol. No início dos tempos os dois lutaram para decidir quem reinaria Arton; Khalmyr interveio e decretou um empate, por isso cada deus domina o mundo durante doze horas. Para seus devotos, a escuridão não é opressiva nem assustadora, mas um alívio contra a vigilância constante do sol — seus mistérios são sedutores e convidam a serem desvendados. Tenebra é mãe de tudo que anda, voa ou rasteja no escuro: morcegos, vampiros, zumbis e mortos-vivos em geral são seus protegidos, o que leva muitos a considerá-la maligna. Na verdade ela não é má: protege igualmente todas as raças e criaturas noturnas e subterrâneas.
 

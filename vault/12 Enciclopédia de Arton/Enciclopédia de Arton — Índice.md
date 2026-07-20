@@ -6,7 +6,7 @@ tags: [índice, moc, enciclopédia, tormenta20]
 
 Base de conhecimento do cenário oficial de **Tormenta20**, extraída dos livros em `Livros/` (Livro Básico — Jogo do Ano, Deuses de Arton, Ameaças de Arton, Heróis de Arton) e de material homebrew usado na mesa (Raças Extras, Necromante, Ninja).
 
-Isso é **material de referência do mundo**, separado da história da nossa campanha (Vecna/Mesa dos Puristas/Mesa Lordran). Para ver como a campanha se conecta a esse material oficial, veja [[Campanha x Livros de Tormenta]].
+Isso é **material de referência do mundo**, separado da história da nossa campanha (Vecna/Mesa A Maldição de Vecna/Mesa Lordran). Para ver como a campanha se conecta a esse material oficial, veja [[Campanha x Livros de Tormenta]].
 
 ## Categorias
 - [[Deuses — Índice|🔱 Deuses e o Panteão]] — 38 notas (20 deuses maiores atuais, 5 deuses antigos caídos, O Nada e o Vazio, 12 divindades menores)

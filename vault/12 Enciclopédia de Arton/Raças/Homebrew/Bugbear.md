@@ -1,10 +1,15 @@
 ---
-tags: [raça, homebrew, tormenta20]
-fonte: "Raças Extras (fã-material, Paranta et al.)"
-bonus-atributo: "For +2, Des +1, Car -1"
+tags: [desambiguação]
 ---
 
-# Bugbear
+# Bugbear ⚠️ Nome Ambíguo
+
+Este vault tem duas entidades chamadas "Bugbear". Use os links abaixo para o verbete correto:
+
+- **[[Bugbear (raça)]]** — raça jogável homebrew.
+- **[[Ameaças/Bestiário/Bugbear|Bugbear (monstro)]]** — monstro oficial do Bestiário (arquivo original, nome mantido).
+
+<!-- Conteúdo original abaixo, preservado por segurança -->
 
 Goblinoide grande e sorrateiro, mestre do medo e da emboscada.
 

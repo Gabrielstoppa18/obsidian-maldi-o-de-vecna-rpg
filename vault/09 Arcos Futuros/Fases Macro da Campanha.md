@@ -2,7 +2,7 @@
 tags: [planejamento, mestre, spoilers]
 ---
 
-# Fases Macro da Campanha (Mesa dos Puristas)
+# Fases Macro da Campanha (Mesa A Maldição de Vecna)
 
 > ⚠️ Conteúdo de bastidores do mestre — não compartilhar com jogadores.
 

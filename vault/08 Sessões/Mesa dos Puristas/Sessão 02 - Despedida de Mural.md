@@ -1,6 +1,6 @@
 ---
 tags: [sessão, sobreviventes]
-mesa: "[[Mesa dos Sobreviventes]]"
+mesa: "[[Mesa dos Puristas]]"
 status: roteiro escrito, aguardando jogo
 ---
 

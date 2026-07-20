@@ -10,4 +10,4 @@ Cidade destruída pela **Facção Puristas** usando a **[[Núcleo de Dragão Ver
 ## Ligações
 - [[Facção Puristas]]
 - [[Núcleo de Dragão Vermelho]]
-- É o elo que conecta a [[Mesa dos Puristas]] à [[Mesa dos Sobreviventes]] (um quareen sobrevivente de Aldun aparece em Mural).
+- É o elo que conecta a [[Mesa A Maldição de Vecna]] à [[Mesa dos Puristas]] (um quareen sobrevivente de Aldun aparece em Mural).

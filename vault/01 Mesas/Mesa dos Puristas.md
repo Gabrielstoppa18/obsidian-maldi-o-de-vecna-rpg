@@ -1,37 +1,26 @@
 ---
-tags: [mesa, puristas]
+tags: [mesa, sobreviventes, mural]
 status: ativa
-nível-atual: 5
 ---
 
-# Mesa dos Puristas (Campanha Vecna)
+# Mesa dos Puristas (Mural)
 
-Mesa principal e ativa da campanha. Jogadores cooperativos, engajados em roleplay. Meta final: batalha climática de nível 20 contra **[[Vecna (Asloth Ferren)]]**.
+Mesa paralela, ambientada na cidade cosmopolita não-humana de **[[Mural]]**. Tom de desespero e impotência — a arma não pode ser detida, e o desfecho depende inteiramente das escolhas dos jogadores. A destruição de Mural é **total**, não parcial (paralelo direto à destruição de [[Aldun]] pelos Puristas).
 
-## Filosofia de Ritmo
-Slow-burn. Chegar ao nível 20 através de desenvolvimento de personagem e subtramas — não narrativa apressada. Ver [[Fases Macro da Campanha]].
+## Grupo
+- Bruxo humano (warlock)
+- Bruxa lefou
+- Bardo aggelus
+- (Todos caótico e maligno)
+- Paladino de Khalmyr — entra na sessão 2
 
-## Grupo Atual (Nível 5 — ficarão aqui por mais algumas sessões)
-- [[Al (Golem)]]
-- [[Rod Trogg]]
-- [[Jaskier]]
-- [[Tinky Winky]] (NPC recorrente, aliada)
-- Novo jogador (personagem ainda não definido)
+## Sessões
+- [[Sessão 01 - Festival e o Quareen Ferido]]
+- [[Sessão 02 - Despedida de Mural]] (roteiro escrito, aguardando jogo)
 
-## Arcos Completos
-1. Prólogo / recrutamento na guilda
-2. [[Arco - Elfo e Vectora]] — resgate de Ed, Vorpal fundida ao braço de Al
-3. [[Arco - Olhos Rasgados]] — Mão de Vecna + livro amaldiçoado; Duran (Revenante) rouba a Mão
-4. [[Arco - Biblioteca de Valkaria]] — livro de transferência de alma de Sukuna, morte de Vharla, grupo incriminado
-
-## Estado Atual (pós-arco da Biblioteca)
-Ver [[Sessão Recente - Fuga de Valkaria]] para detalhes da sessão mais recente.
-
-## Conexão com Outras Mesas
-- Ligada à [[Mesa dos Sobreviventes]] pela destruição da cidade de [[Aldun]].
-- Depende da conclusão da [[Mesa Lordran]] para liberar os arcos de [[Satoru Gojo]], [[Príncipe Benimaru]] e [[Ryomen Sukuna (Buggs)]].
+## Conexão com a Mesa A Maldição de Vecna
+A arma usada para destruir Aldun é a mesma linhagem de poder (Núcleo de Dragão Vermelho) entregue por [[Satoru Gojo]] e [[Ryomen Sukuna (Buggs)]] a [[Edward Elric]]. Um quareen sobrevivente de Aldun aparece na sessão 1, testemunhando o mesmo tipo de destruição que se abaterá sobre Mural.
 
 ## Ver também
-- [[Linha do Tempo Geral]]
-- [[Culto do Olho]]
 - [[Facção Puristas]]
+- [[Torel e os Puristas em Mural]]

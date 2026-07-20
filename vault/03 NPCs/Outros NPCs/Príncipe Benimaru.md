@@ -9,7 +9,7 @@ status: transformado, ativo
 
 # Príncipe Benimaru
 
-> Personagem jogador original da [[Mesa Lordran]] — arquivado em "NPCs" por enquanto só porque ele ainda está narrativamente travado (junto com [[Satoru Gojo]] e [[Ryomen Sukuna (Buggs)]]) até a conclusão dessa mesa, quando passa a ser desenvolvido também como figura recorrente na [[Mesa dos Puristas]].
+> Personagem jogador original da [[Mesa Lordran]] — arquivado em "NPCs" por enquanto só porque ele ainda está narrativamente travado (junto com [[Satoru Gojo]] e [[Ryomen Sukuna (Buggs)]]) até a conclusão dessa mesa, quando passa a ser desenvolvido também como figura recorrente na [[Mesa A Maldição de Vecna]].
 
 ## Origem
 Bárbaro oni (raça homebrew: Força +2, Constituição +1, Carisma -1; tipo espírito; resistência a fogo e trevas; múltiplas formas via disfarce ilusório; aversão a cebolas e macacos), **príncipe oni** de uma vila afastada dos grandes centros, próxima da cidade oriental. Vivia em harmonia com seus pais e sua irmã.

@@ -1,9 +1,16 @@
 ---
-tags: [local, arton, tormenta20]
-tipo: cidade
+tags: [desambiguação]
 ---
 
-# Valkaria
+# Valkaria ⚠️ Nome Ambíguo
+
+Este vault tem três entidades chamadas "Valkaria". Use os links abaixo para o verbete correto:
+
+- **[[04 Locais/Valkaria|Valkaria (campanha)]]** — a cidade tal como jogada na Mesa A Maldição de Vecna.
+- **[[Valkaria (Capital do Reinado)]]** — a cidade capital do Reinado no cenário oficial Tormenta20.
+- **[[Valkaria, a Deusa]]** — a deusa líder do Panteão que dá nome à cidade.
+
+<!-- Conteúdo original abaixo, preservado por segurança -->
 
 A maior metrópole de Arton, capital política do Reinado e "marco zero" do mundo civilizado. Valkaria cresceu aos pés de uma estátua monumental — alta como uma montanha — da deusa Valkaria, encontrada há 400 anos por exilados de Lamnor. A cidade se espalha em anéis: fazendas cercando povoados, povoados cercando castelos, castelos cercando a deusa, com arquitetura em mármore lilás e cinza-gelo ornamentada em dourado, imitando o próprio monumento.
 

@@ -1,10 +1,15 @@
 ---
-tags: [raça, homebrew, tormenta20]
-fonte: "Raças Extras (fã-material, Paranta et al.)"
-bonus-atributo: "Con +2, Sab +1, Des -1"
+tags: [desambiguação]
 ---
 
-# Ente
+# Ente ⚠️ Nome Ambíguo
+
+Este vault tem duas entidades chamadas "Ente". Use os links abaixo para o verbete correto:
+
+- **[[Ente (raça)]]** — raça jogável homebrew.
+- **[[Ameaças/Bestiário/Ente|Ente (monstro)]]** — monstro oficial do Bestiário (arquivo original, nome mantido).
+
+<!-- Conteúdo original abaixo, preservado por segurança -->
 
 Humanoide vegetal de tamanho Grande, com aversão total ao metal.
 

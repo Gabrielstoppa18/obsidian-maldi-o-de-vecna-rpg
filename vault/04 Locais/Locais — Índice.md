@@ -7,6 +7,6 @@ tags: [índice, moc]
 - [[Vectora]]
 - [[Valkaria]]
 - [[Aldun]] — **destruída**
-- [[Mural]] — em processo de destruição (Mesa dos Sobreviventes)
+- [[Mural]] — em processo de destruição (Mesa dos Puristas)
 - [[Lordran]]
 - [[Ilha dos Oni]]

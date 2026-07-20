@@ -27,10 +27,10 @@ O Panteão de Arton nasceu do Nada e do Vazio: vinte divindades maiores, liderad
 - [[Oceano]] — Deus dos Mares, soberano das águas, atualmente desaparecido em circunstâncias misteriosas.
 - [[Sszzaas]] — Deus da Traição, do mistério e do conhecimento oculto, inimigo declarado de Khalmyr.
 - [[Tanna-Toh]] — Deusa do Conhecimento, patrona da escrita, do ensino e da pesquisa.
-- [[Tenebra]] — Deusa das Trevas, rival de Azgher e mãe dos anões (com Khalmyr).
+- [[Tenebra, a Deusa|Tenebra]] — Deusa das Trevas, rival de Azgher e mãe dos anões (com Khalmyr).
 - [[Thwor]] — Deus dos Goblinoides, general bugbear ascendido, criador da filosofia do Akzath.
 - [[Thyatis]] — Deus da Ressurreição e da Profecia, patrono das "segundas chances".
-- [[Valkaria]] — Deusa da Aventura, da Ambição e da Humanidade, atual líder do Panteão.
+- [[Valkaria, a Deusa|Valkaria]] — Deusa da Aventura, da Ambição e da Humanidade, atual líder do Panteão.
 - [[Wynna]] — Deusa da Magia, fonte da magia arcana e padroeira de arcanistas.
 
 ## Antigos Deuses Maiores (caídos)
