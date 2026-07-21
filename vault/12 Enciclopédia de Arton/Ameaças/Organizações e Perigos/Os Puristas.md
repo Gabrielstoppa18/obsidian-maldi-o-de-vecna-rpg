@@ -1,5 +1,5 @@
 ---
-tags: [ameaça, organização, tormenta20]
+tags: [ameaça, organização, tormenta20, campanha-relevante]
 ---
 
 # Os Puristas
@@ -12,5 +12,11 @@ Territorialmente, a Supremacia Purista faz fronteira com Deheon, separada apenas
 
 Como ameaça de mesa, os Puristas raramente aparecem como monstros isolados: são um exército organizado, disciplinado e fanaticamente leal, cuja periculosidade está na escala (batalhões inteiros, formações táticas, apoio de colossos) e na motivação ideológica que torna negociação quase impossível com seus membros mais doutrinados. Um purista recebe bônus em testes de Vontade ao seguir ordens de um superior e bônus de dano contra não humanos — a manifestação mecânica de seu "Ódio Puro".
 
+## Conexão com a Campanha
+Base direta da **[[Facção Puristas]]** da campanha (destruiu Aldun e Mural com as armas de núcleo dual). A **Ordem do Leopardo Sangrento** descrita aqui — cavaleiros que só ingressam após sacrificar um não humano com as próprias mãos — é a origem exata do **Cavaleiro do Leopardo Sangrento**, chefe final da [[Sessão 03 - O Guardião da Torre]]. O **Colosso Supremo** é um ótimo modelo pronto para a arma que destruiu Aldun (ver [[Núcleo de Dragão Vermelho]]), e o Templo da Pureza Divina (culto a Valkaria e Arsenal) dá pano de fundo religioso para o fanatismo deles — ver [[Valkaria, a Deusa]].
+
 ## Ver também
 - [[Organizações e Perigos — Índice]]
+- [[Facção Puristas]]
+- [[Sessão 03 - O Guardião da Torre]]
+- [[Núcleo de Dragão Vermelho]]

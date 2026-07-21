@@ -1,5 +1,5 @@
 ---
-tags: [deus, panteão, tormenta20]
+tags: [deus, panteão, tormenta20, campanha-relevante]
 titulo: "Deusa da Magia"
 alinhamento: não descrito explicitamente (bondosa e generosa, mas caprichosa, enciumada e rancorosa)
 area-de-influencia: Magia, arcanistas, gênios
@@ -20,6 +20,9 @@ Wynna visita Arton com razoável frequência, aparecendo em cerimônias na Acade
 ## Símbolo e Domínio
 Outros nomes: Dallia (entre os elfos). Símbolo Sagrado: anel metálico, com ou sem runas. Canalizar Energia: qualquer. Arma Preferida: adaga. Cores Significativas: cinza, ou as seis cores da magia combinadas (verde azulado, vermelho, azul, verde, branco, preto). Lema: "A magia é mais preciosa que a vida. Como tal, não deve ser negada a ninguém."
 
+## Conexão com a Campanha
+**Silas Ilven** (Mesa Lordran) matou um ser mágico sagrado de Wynna em um ritual proibido, tentando obter poder arcano sem ter talento nato — ela o amaldiçoou, selando toda a mana que existia nele, condenando-o a nunca se tornar um mago de verdade (ele vira ladino, "mágico de araque"). Os **qareen** ([[Al Hazar Placeto]], [[José Bezerra]]) são descritos aqui como "praticamente nascidos devotos de Wynna" — reforça a ligação natural deles com magia arcana.
+
 ## Ver também
 - [[Deuses — Índice]]
 - [[Valkaria]]
@@ -28,3 +31,4 @@ Outros nomes: Dallia (entre os elfos). Símbolo Sagrado: anel metálico, com ou 
 - [[Arsenal]]
 - [[Megalokk]]
 - [[Thwor]]
+- [[Silas]]

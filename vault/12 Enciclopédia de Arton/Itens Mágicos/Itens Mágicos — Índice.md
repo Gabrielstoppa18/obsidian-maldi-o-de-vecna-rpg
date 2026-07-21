@@ -8,6 +8,9 @@ Itens mágicos oficiais de Tormenta20 (armas, armaduras, poções, acessórios e
 
 *(Não confundir com [[Itens e Artefatos — Índice]], que lista os itens próprios da nossa campanha.)*
 
+> [!tip] Relevante para a Campanha
+> Nenhum item aqui foi usado em jogo ainda (os itens da campanha — Espada Vorpal, Mão de Vecna, Livro Amaldiçoado, Núcleo de Dragão Vermelho — são homebrew, ver [[Itens e Artefatos — Índice]]). Mas os **Artefatos** abaixo são um ótimo banco de opções prontas para as **armas lendárias** do [[Arco - O Conclave Dracônico]] (Fase 3) — vale revisitar esta lista na hora de planejar aquele arco.
+
 ## 🏺 Artefatos
 Relíquias únicas e lendárias, normalmente forjadas por deuses. As buscas por elas podem sustentar campanhas inteiras.
 

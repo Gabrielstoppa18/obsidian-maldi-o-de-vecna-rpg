@@ -1,5 +1,5 @@
 ---
-tags: [ameaça, organização, tormenta20]
+tags: [ameaça, organização, tormenta20, campanha-relevante]
 ---
 
 # Os Dragões
@@ -12,5 +12,9 @@ Um fenômeno curioso ligado aos dragões são os kobolds: pequenos humanoides re
 
 Como ameaça de mesa, os dragões escalam de forma natural com o nível dos personagens — de filhotes (sopro de fogo modesto, ND baixo) a jovens (ND médio, já capazes de arrasar um grupo despreparado) até os grandes dragões ancestrais que raramente aparecem fora de campanhas de altíssimo nível — sendo referência clássica de "chefe final" de arco de aventura, cercados por cultos, tesouros e territórios inteiros moldados por sua vontade.
 
+## Conexão com a Campanha
+Base mecânica e temática planejada para o **[[Arco - O Conclave Dracônico]]** (Fase 3 da campanha, níveis 13-17): um conclave de dragões ataca o reino, e o grupo precisa de armas lendárias para enfrentá-los — a mesma escalada natural por nível descrita aqui ("de filhotes a grandes dragões ancestrais... referência clássica de chefe final") é literalmente o formato do arco.
+
 ## Ver também
 - [[Organizações e Perigos — Índice]]
+- [[Arco - O Conclave Dracônico]]

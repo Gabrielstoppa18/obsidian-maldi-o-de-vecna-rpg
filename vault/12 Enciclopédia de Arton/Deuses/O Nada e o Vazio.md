@@ -1,5 +1,5 @@
 ---
-tags: [entidade-cósmica, panteão, tormenta20]
+tags: [entidade-cósmica, panteão, tormenta20, campanha-relevante]
 titulo: "As Duas Entidades Primordiais"
 alinhamento: Além de qualquer alinhamento
 area-de-influencia: Origem de tudo; não-existência; precursores do Panteão
@@ -18,5 +18,11 @@ O número vinte é tratado como sagrado e deveria, em teoria, ser sempre mantido
 ## Símbolo e Domínio
 Não possuem símbolo sagrado, culto, avatar ou clero — são entidades pré-divinas, fora do alcance da devoção mortal ou mesmo da compreensão dos próprios deuses.
 
+## Conexão com a Campanha
+"Os Vinte" da campanha — o grupo que **[[Vecna (Asloth Ferren)|Vecna]]** quer integrar matando/enfraquecendo **[[Tenebra]]** — é literalmente esse Panteão. O detalhe de que cinco dos vinte deuses originais já caíram e foram substituídos ao longo da história prova que a vaga que Vecna busca **já tem precedente real** no mundo: não seria a primeira vez que um deus cai e um mortal ascende ao seu lugar.
+
 ## Ver também
 - [[Deuses — Índice]]
+- [[Vecna (Asloth Ferren)]]
+- [[Os Vinte]]
+- [[Tenebra]]

@@ -1,11 +1,11 @@
 ---
-tags: [npc, trio-academia, campeão, travado-até-lordran]
-status: corrompido
+tags: [trio-academia, campeão, travado-até-lordran]
+status: corrompido — atualmente é PC, não NPC
 ---
 
 # Satoru Gojo
 
-> ⚠️ Narrativamente travado (junto com [[Príncipe Benimaru]] e [[Ryomen Sukuna (Buggs)]]) até a conclusão da [[Mesa Lordran]].
+> ⚠️ **Não é um NPC no momento.** É a identidade verdadeira de **[[Patolino]]**, personagem jogador ativo na [[Mesa Lordran]] — a ficha de personagem fica lá. Esta nota é a referência de lore/backstory do Trio da Academia. Narrativamente travado (junto com [[Príncipe Benimaru]] e [[Ryomen Sukuna (Buggs)]]) até a conclusão da Mesa Lordran, quando passa a ser desenvolvido como figura recorrente na [[Mesa A Maldição de Vecna]] — só então se torna um NPC de fato.
 
 ## História
 Um dos três alunos mais brilhantes da **Academia Arcana**, ao lado de **[[Ryomen Sukuna (Buggs)|Ryomen Sukuna]]** e **[[Edward Elric|Ed]]**, discípulos da maga lendária **Lora**. Gojo se especializou em magias de alto nível. Reencontra os amigos pela última vez no casamento de Ed, onde ele e Sukuna dão ao noivo o **[[Núcleo de Dragão Vermelho]]** de presente.
@@ -17,6 +17,9 @@ Durante o confronto contra Radahn em Anor Londo ([[Arco - As Fortalezas e Anor L
 
 ## Status Atual
 Ativo em Lordran como Patolino/Gojo, ainda não reintegrado à Mesa A Maldição de Vecna — travado até a conclusão da [[Mesa Lordran]].
+
+## Gancho Futuro ⚠️ (spoiler de mestre, condicional)
+Possibilidade em aberto para a Fase 4: dependendo de como a Mesa Lordran termina (destino ainda não definido), Gojo pode ser trazido de volta a Arton muito idoso e sem memórias do que aconteceu, vagando pelo mundo — ainda extremamente poderoso, podendo ajudar o grupo antes da luta final e servir como um pilar na batalha contra Vecna. Não confirmado. Ver [[Fases Macro da Campanha]].
 
 ## Ligações
 - [[Ryomen Sukuna (Buggs)]]

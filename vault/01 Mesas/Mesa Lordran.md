@@ -12,10 +12,14 @@ Quatro pessoas desaparecem de Arton sem explicação e acordam em Lordran, "esco
 
 ## Personagens Jogadores Originais
 - **[[Patolino]]** — pato humanoide necromante; revelado ser **[[Satoru Gojo]]** corrompido.
-- **[[Príncipe Benimaru|Benimaru]]** — bárbaro oni; morre e retorna transformado após um arco no Inferno.
+- **[[Príncipe Benimaru|Benimaru]]** — bárbaro oni; morre no confronto contra o gigante enfurecido, mas retorna transformado através do arco do Inferno e segue ativo. Passa a ser desenvolvido como figura recorrente na [[Mesa A Maldição de Vecna]] após a conclusão desta mesa — por isso está arquivado em NPCs por enquanto, embora seja um PC ativo.
 - **[[Duran Barba Verde|Duran]]** — anão druida; morre enfrentando Malenia, depois ressuscitado por Vecna como General.
 - **[[Ojuara]]** — humano guerreiro.
 - **[[Silas]]** (Silas Ilven) — ladino disfarçado de mago, entra no arco da aldeia destruída; morre enfrentando Malenia.
+
+## Campeões que se Juntaram (Arco do Inferno de Benimaru)
+- **[[Bastião do Breu]]** — espantalho animado, devoto de Azgher.
+- **[[Xiao Dre]]** — campeão convocado pela Dama Mascarada ao lado de Bastião do Breu e Silas.
 
 ## Linha Narrativa (em ordem)
 1. [[Arco - Despertar em Lordran]]

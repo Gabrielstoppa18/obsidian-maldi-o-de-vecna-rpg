@@ -1,5 +1,5 @@
 ---
-tags: [raça, tormenta20]
+tags: [raça, tormenta20, campanha-relevante]
 fonte: "Livro Básico"
 bonus-atributo: "+1 em três atributos diferentes"
 ---
@@ -14,5 +14,9 @@ Ser humano é ter a liberdade e a conveniência de se tornar o que quiser, mesmo
 - **+1 em Três Atributos Diferentes**: filhos de Valkaria, podem se destacar em qualquer caminho que escolherem.
 - **Versátil**: torna-se treinado em duas perícias à escolha (não precisam ser da classe). Pode trocar uma dessas perícias por um poder geral à escolha.
 
+## Conexão com a Campanha
+Raça de vários PCs (**[[Malkor]]**, **[[Bastian]]**, entre outros). A doutrina "humanos são filhos de Valkaria, os escolhidos" é literalmente distorcida pela **[[Facção Puristas]]** em fanatismo racial — o Templo da Pureza Divina deles cultua justamente Valkaria. Ver [[Valkaria, a Deusa]] e [[Os Puristas]].
+
 ## Ver também
 - [[Raças — Índice]]
+- [[Facção Puristas]]

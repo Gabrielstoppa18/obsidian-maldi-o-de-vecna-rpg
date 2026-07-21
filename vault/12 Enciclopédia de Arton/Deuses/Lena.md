@@ -1,5 +1,5 @@
 ---
-tags: [deus, panteão, tormenta20]
+tags: [deus, panteão, tormenta20, campanha-relevante]
 titulo: "Deusa da Vida"
 alinhamento: bondosa (dogmas rígidos quanto à não-violência)
 area-de-influencia: Vida, cura, fertilidade, luz, mulheres, pessoas grávidas
@@ -18,6 +18,9 @@ A Igreja de Lena é popular em todo o Reinado, com templos construídos em área
 ## Símbolo e Domínio
 Outros Nomes: Deusa da Cura; Deusa da Fertilidade; Deusa Criança; Deusa Mãe; Luna ou Lunarianna na antiga Lamnor; Nanateallah entre os elfos; Duenna entre os hynne; Oghana entre os anões; Ooniemma entre os suraggel. Símbolo Sagrado: lua crescente prateada. Canalizar Energia: Positiva. Arma Preferida: Nenhuma. Cores Significativas: verde, amarelo, branco. Lema: "Antes perder a própria vida que tomá-la de alguém."
 
+## Conexão com a Campanha
+**[[Tinky Winky]]** é Sylph, clériga de Lena — o domínio da deusa sobre nascimento e vida (que aqui inclui explicitamente "até o despertar de um golem") ajuda a explicar por que a bênção dela consegue *suprimir* a aura maligna do Livro Amaldiçoado.
+
 ## Ver também
 - [[Deuses — Índice]]
 - [[Allihanna]]
@@ -26,3 +29,4 @@ Outros Nomes: Deusa da Cura; Deusa da Fertilidade; Deusa Criança; Deusa Mãe; L
 - [[Sszzaas]]
 - [[Tenebra]]
 - [[Aharadak]]
+- [[Tinky Winky]]

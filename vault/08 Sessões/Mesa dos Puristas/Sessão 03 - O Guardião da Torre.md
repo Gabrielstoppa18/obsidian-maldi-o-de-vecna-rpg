@@ -1,15 +1,33 @@
 ---
 tags: [sessão, puristas, clímax, roteiro-mestre]
 mesa: "[[Mesa dos Puristas]]"
-status: roteiro escrito, aguardando jogo
+status: jogada — TPK final
 ---
 
 # Sessão 03 — O Guardião da Torre (e a Queda de Mural)
 
-> ⚠️ Roteiro de mestre — falas, blocos de combate nerfados e texto de leitura. Contém spoilers do desfecho.
+> ⚠️ Contém spoilers do desfecho. Seção "Como Foi Jogado" abaixo documenta o que realmente aconteceu na mesa; o restante da nota é o roteiro original preparado para a sessão.
+
+## Como Foi Jogado
+
+Depois de vencer os dois primeiros guardas (fim da Sessão 02), o grupo (**Malkor**, **Hevel**, **José Bezerra**, **Bastian**) se recupera um pouco e entra na base da torre — um patamar com uma escada em caracol subindo até o topo. Ali encontram uma porta de barras de aço trancando uma cela: dentro dela está **[[Balkur]]**, um bucaneiro kliren preso pelos Puristas. O grupo o liberta e ele se junta a eles direto para a missão final, ainda correndo atrás do próprio equipamento em meio à confusão.
+
+Hevel manda seu falcão subir para escanear o andar de cima em busca de inimigos. Ele avista só um dos dois guardas antes do outro o matar — o que denuncia a posição do grupo e acorda os guardas, que descem a escada para o confronto. A cena de ação vira dupla: lutar contra os guardas enquanto correm para pegar e vestir o equipamento de Balkur e ajudá-lo a entrar na luta.
+
+**José Bezerra morre nesse combate** — cai abaixo da metade da vida e não resiste, bem no fim da luta, mas o grupo consegue matar os dois guardas.
+
+Já com essa baixa, sobem ao topo da torre e encontram o **Cavaleiro do Leopardo Sangrento** esperando junto ao orbe. Luta muito difícil — o grupo quase morre. Em desespero, tentam de tudo para desativar o cristal, chegando a arremessar o corpo de José Bezerra contra ele (tentando reanimá-lo ou interromper o processo) — o corpo é simplesmente desintegrado.
+
+Perto do fim da luta, o orbe muda de cor (roxo, veias verdes) e o Cavaleiro se apavora e se rende — sabe que já está morto, que o cristal vai explodir. **Balkur** atira nele com a espingarda, arremessando-o torre abaixo. Em vez de fugir, o grupo decide gastar o tempo restante garantindo a morte do Cavaleiro, julgando que não havia mais escapatória de qualquer forma. O orbe explode, reduzindo tudo a cinzas — **TPK**: Malkor, Hevel, Bastian e Balkur morrem junto com José Bezerra.
+
+Fim da Mesa dos Puristas.
+
+---
+
+## Roteiro Original (preparado antes da sessão)
 
 ## Contexto de Entrada
-O grupo (**Malkor**, **Hevel**, **José Bezerra**, **Lancelot**) acabou de vencer os guardas da base da torre, mas a luta foi barulhenta. O orbe no topo da torre pulsa vermelho, mais rápido a cada minuto. Alguém lá dentro percebeu o combate.
+O grupo (**Malkor**, **Hevel**, **José Bezerra**, **Bastian**) acabou de vencer os guardas da base da torre, mas a luta foi barulhenta. O orbe no topo da torre pulsa vermelho, mais rápido a cada minuto. Alguém lá dentro percebeu o combate.
 
 ---
 

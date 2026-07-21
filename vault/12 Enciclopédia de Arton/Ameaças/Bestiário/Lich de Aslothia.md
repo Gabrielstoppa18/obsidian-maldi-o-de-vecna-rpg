@@ -1,5 +1,5 @@
 ---
-tags: [ameaça, monstro, tormenta20]
+tags: [ameaça, monstro, tormenta20, campanha-relevante]
 tipo: morto-vivo
 nd: 18
 ---

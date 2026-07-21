@@ -1,5 +1,5 @@
 ---
-tags: [raça, tormenta20]
+tags: [raça, tormenta20, campanha-relevante]
 fonte: "Livro Básico"
 bonus-atributo: "Carisma +2, Destreza +1, Força -2"
 ---
@@ -13,5 +13,9 @@ As fadas mais numerosas em Arton, sílfides são criaturinhas esvoaçantes com d
 - **Espírito da Natureza**: criatura do tipo espírito; visão na penumbra; fala com animais livremente.
 - **Magia das Fadas**: pode lançar duas magias entre Criar Ilusão, Enfeitiçar, Luz (como magia arcana) e Sono (atributo-chave Carisma); custo reduzido em -1 PM ao reaprender.
 
+## Conexão com a Campanha
+**[[Tinky Winky]]** é Sylph, clériga de **[[Lena]]**.
+
 ## Ver também
 - [[Raças — Índice]]
+- [[Tinky Winky]]

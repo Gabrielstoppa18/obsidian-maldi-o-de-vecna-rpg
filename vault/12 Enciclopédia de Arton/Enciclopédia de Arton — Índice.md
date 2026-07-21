@@ -8,6 +8,11 @@ Base de conhecimento do cenário oficial de **Tormenta20**, extraída dos livros
 
 Isso é **material de referência do mundo**, separado da história da nossa campanha (Vecna/Mesa A Maldição de Vecna/Mesa Lordran). Para ver como a campanha se conecta a esse material oficial, veja [[Campanha x Livros de Tormenta]].
 
+> [!tip] Destacando o que é relevante no Graph View
+> Com quase 600 notas de referência genérica, a maioria nunca vai aparecer em jogo — por isso os verbetes com ligação real à campanha (uns 25 até agora) ganharam a tag `campanha-relevante` e uma seção **"Conexão com a Campanha"** no próprio texto. Pra fazer esses nós se destacarem visualmente no Graph View: Configurações → Graph View → Groups → adicione um grupo com a query `tag:#campanha-relevante` e escolha uma cor. Isso separa visualmente "lore genérica" de "coisa que já apareceu ou vai aparecer na mesa" sem precisar mexer em nenhum arquivo.
+>
+> Cada subcategoria abaixo tem sua própria lista fixada de verbetes relevantes no topo do respectivo índice.
+
 ## Categorias
 - [[Deuses — Índice|🔱 Deuses e o Panteão]] — 38 notas (20 deuses maiores atuais, 5 deuses antigos caídos, O Nada e o Vazio, 12 divindades menores)
 - [[Raças — Índice|🧬 Raças]] — 21 raças oficiais (Livro Básico + Heróis de Arton) + [[Homebrew — Índice|30 raças e 3 traços homebrew]] (Raças Extras)

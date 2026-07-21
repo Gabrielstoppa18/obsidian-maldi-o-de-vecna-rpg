@@ -14,13 +14,14 @@ Vault de memória para a campanha original em Arton (Tormenta 20), rodada por Ga
 ## 📚 Navegação Rápida
 - [[Linha do Tempo Geral]]
 - [[Vecna (Asloth Ferren)|O Vilão — Vecna]]
+- [[NPCs — Índice]]
 - [[Trio da Academia — Índice]]
 - [[Campeões de Buggs-Vecna — Índice]]
 - [[Facções — Índice]]
 - [[Locais — Índice]]
 - [[Itens e Artefatos — Índice]]
 - [[Princípios de Mestria]]
-- [[Fases Macro da Campanha]]
+- [[Fases Macro da Campanha]] ([[Arcos Futuros — Índice|arcos por horizonte]])
 - [[Campanha x Livros de Tormenta]]
 - [[Enciclopédia de Arton — Índice]] — base de conhecimento do cenário oficial (deuses, raças, locais, itens, ameaças)
 

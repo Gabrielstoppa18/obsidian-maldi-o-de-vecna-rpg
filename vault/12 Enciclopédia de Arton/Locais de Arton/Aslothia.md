@@ -1,5 +1,5 @@
 ---
-tags: [local, arton, tormenta20]
+tags: [local, arton, tormenta20, campanha-relevante]
 tipo: reino
 ---
 
@@ -11,5 +11,10 @@ Hoje Aslothia é uma terra cinzenta e enevoada, o sol oculto por neblina eterna,
 
 Aslothia também abriga o maior covil de mercenários do mundo, com incontáveis companhias sediadas ali, sem lealdade a nada além do ouro. É um reino onde até os mortos podem se erguer para lutar novamente, e apenas a intervenção de heróis pode salvar seu povo esquecido.
 
+## Conexão com a Campanha
+O nome do vilão da campanha, **[[Vecna (Asloth Ferren)]]**, é um anagrama quase literal de **Ferren Asloth**, o regente que se transformou no primeiro Arquilich de Arton e deu origem a esse reino. A origem/queda que a campanha dá a Vecna (ex-estudante de necromancia, traído, virou Arch-Lich) espelha diretamente a história oficial de Asloth. Ver também [[Reino dos Mortos]] e [[Campanha x Livros de Tormenta]].
+
 ## Ver também
 - [[Locais de Arton — Índice]]
+- [[Vecna (Asloth Ferren)]]
+- [[Reino dos Mortos]]

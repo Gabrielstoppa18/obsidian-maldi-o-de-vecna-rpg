@@ -39,9 +39,13 @@ Ordem aproximada dos eventos entre as três mesas. Datas exatas ficam em aberto 
 24. **[[Arco - Biblioteca de Valkaria]]** — Tinky Winky se junta ao grupo; livro e foto de Sukuna encontrados; a bibliotecária Vharla os leva à Câmara do Silêncio e revela informações sobre Vecna; incêndio na biblioteca; morte de Vharla (transfere visão a Tinky Winky); grupo incriminado por Vasth (Culto do Olho).
 25. **[[Sessão Recente - Fuga de Valkaria|Arco - Fuga de Valkaria e o Prazo de Lora]]** — fuga pelos esgotos; Al Hazar tenta resgatá-los e é perseguido; execução de um sargento rendido por Al; fuga via cristal de retorno até a oficina de Ed; carta de Ed para Lora; encobrimento orquestrado por um encapuzado acima de Vasth; encontro com Lora, anistia condicional e prazo para expor o Culto do Olho em Valkaria.
 
-## Mesa dos Puristas (ativa, paralela)
+## Mesa dos Puristas (concluída — TPK)
 26. **[[Sessão 01 - Festival e o Quareen Ferido]]** — quareen sobrevivente de Aldun aparece em Mural; confronto com Torel e Puristas.
-27. **[[Sessão 02 - Despedida de Mural]]** (roteiro pronto) — destruição iminente e total de Mural.
+27. **[[Sessão 02 - Despedida de Mural]]** — Bastian se junta ao grupo; casa do conselheiro revela destruição de outra cidade e o sequestro dele; fuga da velha pelo túnel; Puristas mortos e trog das cavernas no túnel; Malkor atrai os guardas da base da torre.
+28. **[[Sessão 03 - O Guardião da Torre]]** — Balkur é resgatado de uma cela na torre e se junta ao grupo; José Bezerra morre no combate contra os guardas; Cavaleiro do Leopardo Sangrento quase os mata no topo da torre; corpo de José Bezerra é arremessado contra o orbe (desintegrado); o Cavaleiro se rende e é morto por Balkur; grupo escolhe garantir a morte dele em vez de fugir; o orbe explode — **TPK total, Mural é destruída por completo**.
+
+## Consequências Imediatas para a Mesa A Maldição de Vecna
+29. Vecna colhe as almas de Mural, incluindo as dos cinco heróis caídos — planeja erguê-los como um núcleo de elite de seu exército de mortos-vivos. Passa a agir de forma mais incisiva, buscando cultistas em massa (culto público prometendo cura e vida eterna) para reunir força e avançar seu plano de matar/enfraquecer **[[Tenebra]]** e se tornar um dos **[[Os Vinte]]**. Ver [[Fases Macro da Campanha]] para o desdobramento.
 
 ## Futuro Planejado
 Ver [[Fases Macro da Campanha]] para os arcos de nível 5–20.

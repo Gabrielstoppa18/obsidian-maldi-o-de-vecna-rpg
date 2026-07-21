@@ -1,5 +1,5 @@
 ---
-tags: [raça, tormenta20]
+tags: [raça, tormenta20, campanha-relevante]
 fonte: "Livro Básico"
 bonus-atributo: "Inteligência +2, Carisma +1, Força -1"
 ---
@@ -14,5 +14,9 @@ Visitantes de outro mundo, os kliren seriam uma combinação entre humanos e gno
 - **Ossos Frágeis**: sofre 1 ponto de dano adicional por dado de dano de impacto.
 - **Vanguardista**: proficiência em armas de fogo e +2 em um Ofício à escolha.
 
+## Conexão com a Campanha
+**[[Balkur]]** (Mesa dos Puristas) é bucaneiro kliren — a habilidade racial **Vanguardista** (proficiência em armas de fogo) explica perfeitamente a espingarda que ele usa para abater o Cavaleiro do Leopardo Sangrento na [[Sessão 03 - O Guardião da Torre]].
+
 ## Ver também
 - [[Raças — Índice]]
+- [[Balkur]]

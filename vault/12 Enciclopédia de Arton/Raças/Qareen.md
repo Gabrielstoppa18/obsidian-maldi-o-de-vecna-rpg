@@ -1,5 +1,5 @@
 ---
-tags: [raça, tormenta20]
+tags: [raça, tormenta20, campanha-relevante]
 fonte: "Livro Básico"
 bonus-atributo: "Carisma +2, Inteligência +1, Sabedoria -1"
 ---
@@ -15,5 +15,11 @@ Têm espírito desbravador inerente, seja para satisfazer as próprias vontades,
 - **Resistência Elemental**: redução 10 a um tipo de dano conforme a ascendência (frio, eletricidade, fogo, ácido, luz ou trevas).
 - **Tatuagem Mística**: pode lançar uma magia de 1º círculo à escolha (atributo-chave Carisma); custo reduzido em -1 PM ao reaprender.
 
+## Conexão com a Campanha
+Raça de **[[Al Hazar Placeto]]** (Mesa A Maldição de Vecna) e **[[José Bezerra]]** (Mesa dos Puristas). "Filhos de Wynna" reforça a devoção natural deles à magia — ver [[Wynna]]. Também é a raça do quareen sobrevivente de Aldun que aparece na Sessão 1 da Mesa dos Puristas.
+
 ## Ver também
 - [[Raças — Índice]]
+- [[Al Hazar Placeto]]
+- [[José Bezerra]]
+- [[Wynna]]

@@ -8,6 +8,9 @@ Geografia oficial do continente de Arton: o Reinado e as terras além dele, conf
 
 *(Não confundir com [[Locais — Índice]], que lista os locais próprios da nossa campanha.)*
 
+> [!tip] Relevantes para a Campanha
+> Tag `campanha-relevante`: [[Aslothia]] (origem de Vecna) e as versões-Enciclopédia de [[Valkaria]] e [[Vectora]] (cidades também jogadas na campanha, ver desambiguação em cada verbete).
+
 ## O Reinado
 
 A coalizão dos sete reinos que forma o "mundo civilizado" de Arton, sob a liderança da Rainha-Imperatriz Shivara.

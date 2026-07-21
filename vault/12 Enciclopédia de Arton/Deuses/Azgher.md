@@ -1,5 +1,5 @@
 ---
-tags: [deus, panteão, tormenta20]
+tags: [deus, panteão, tormenta20, campanha-relevante]
 titulo: "Deus-Sol"
 alinhamento: bom (rigoroso e orgulhoso)
 area-de-influencia: Dia, vigilância, proteção, deserto, bom tempo, fogo, luz
@@ -18,6 +18,9 @@ Seu culto mais grandioso está entre os sar-allan do Deserto da Perdição, que 
 ## Símbolo e Domínio
 Outros Nomes: Deus do Sol, o Vigilante, Aquele-que-Tudo-Vê, Bhastall (elfos), Tuvath (qareen), Mirann (hynne), Seolloes (minotauros), Astar o Sorridente (fadas), Berzul (anões). Símbolo Sagrado: um sol dourado. Canalizar Energia: Positiva. Arma Preferida: cimitarra. Cores Significativas: branco, dourado. Lema: "Todo ouro veio de Azgher, todo ouro deve retornar a Azgher."
 
+## Conexão com a Campanha
+A rivalidade eterna entre Azgher e **[[Tenebra]]** é o pano de fundo direto do processo de admissão de **[[Jaskier]]** como Sombra de Tenebra: a missão precisa ser cumprida sem que Jaskier seja tocado pela luz de Azgher, "o eterno vigilante" que enxerga tudo que sua luz toca. Ver [[Subtrama - Jaskier e a Sombra de Tenebra]].
+
 ## Ver também
 - [[Deuses — Índice]]
 - [[Tenebra]]
@@ -27,6 +30,8 @@ Outros Nomes: Deus do Sol, o Vigilante, Aquele-que-Tudo-Vê, Bhastall (elfos), T
 - [[Lin-Wu]]
 - [[Marah]]
 - [[Valkaria]]
+- [[Jaskier]]
+- [[Subtrama - Jaskier e a Sombra de Tenebra]]
 - [[Tanna-Toh]]
 - [[Oceano]]
 - [[Allihanna]]

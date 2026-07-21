@@ -1,5 +1,5 @@
 ---
-tags: [ameaça, monstro, tormenta20]
+tags: [ameaça, monstro, tormenta20, campanha-relevante]
 tipo: morto-vivo
 nd: S
 ---
@@ -25,3 +25,5 @@ Esta é a ficha de referência mecânica do vilão que dá nome à campanha "Mal
 - [[Bestiário — Índice]]
 - [[Lich de Aslothia]]
 - [[Lich]]
+- [[Vecna (Asloth Ferren)]]
+- [[Arco - A Batalha Final contra Vecna]]

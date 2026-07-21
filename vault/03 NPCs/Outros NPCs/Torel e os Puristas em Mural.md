@@ -1,5 +1,5 @@
 ---
-tags: [npc, facção-puristas, mesa-sobreviventes]
+tags: [npc, facção-puristas, mesa-puristas]
 ---
 
 # Torel

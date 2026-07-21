@@ -1,5 +1,5 @@
 ---
-tags: [raça, tormenta20]
+tags: [raça, tormenta20, campanha-relevante]
 fonte: "Livro Básico"
 bonus-atributo: "Sabedoria +2, Carisma +1 (Aggelus) ou Destreza +2, Inteligência +1 (Sulfure)"
 ---
@@ -13,5 +13,9 @@ Descendentes de extraplanares divinos, os suraggel são formados por seres com t
 - **Luz Sagrada (Aggelus)**: +2 em Diplomacia e Intuição; pode lançar Luz (magia divina, atributo-chave Carisma), custo reduzido em -1 PM ao reaprender.
 - **Sombras Profanas (Sulfure)**: +2 em Enganação e Furtividade; pode lançar Escuridão (magia divina, atributo-chave Inteligência), custo reduzido em -1 PM ao reaprender.
 
+## Conexão com a Campanha
+**[[Jaskier]]** é suraggel aggelus — e sua transição de bardo para bruxo devoto de **[[Tenebra]]** (asas antes brancas, agora enegrecidas) é um eco temático bonito da divisão racial entre aggelus (celestial) e sulfure (abissal): ele começou do lado da luz e está sendo puxado pra escuridão sem nunca ter trocado de raça de fato. Ver [[Subtrama - Jaskier e a Sombra de Tenebra]].
+
 ## Ver também
 - [[Raças — Índice]]
+- [[Jaskier]]

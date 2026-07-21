@@ -1,5 +1,5 @@
 ---
-tags: [local, arton, tormenta20]
+tags: [local, arton, tormenta20, campanha-relevante]
 tipo: cidade
 ---
 

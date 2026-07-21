@@ -1,5 +1,5 @@
 ---
-tags: [raça, tormenta20]
+tags: [raça, tormenta20, campanha-relevante]
 fonte: "Livro Básico"
 bonus-atributo: "+1 em três atributos diferentes (exceto Carisma), Carisma -1"
 ---
@@ -14,5 +14,9 @@ Com a ascensão de Aharadak, cultos passaram a buscar lefou para posições de d
 - **Cria da Tormenta**: criatura do tipo monstro; +5 em testes de resistência contra efeitos de lefeu e da Tormenta.
 - **Deformidade**: +2 em duas perícias à escolha (cada bônus conta como poder da Tormenta, exceto para perda de Carisma); pode trocar um bônus por um poder da Tormenta à escolha.
 
+## Conexão com a Campanha
+**[[Hevel]]** (Mesa dos Puristas) é bruxa arcanista lefou que busca curar a própria deformidade no rosto — encaixe direto com a habilidade racial **Deformidade** descrita acima.
+
 ## Ver também
 - [[Raças — Índice]]
+- [[Hevel]]

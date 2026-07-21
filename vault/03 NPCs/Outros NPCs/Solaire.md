@@ -12,8 +12,12 @@ Estava a caminho de levar mantimentos a uma pequena aldeia na Floresta dos Gigan
 
 Amigo de **Artorias**. Acompanha o grupo até Anor Londo, onde decide seguir com Artorias para conter o Abismo enquanto os demais lidam com a corrupção da cidade ([[Arco - As Fortalezas e Anor Londo]]). No Abismo, enfrenta **Malekieth**, Deus da Morte, ao lado de Artorias — que se sacrifica para conter a destruição. Solaire sobrevive e corre para ajudar os amigos em Anor Londo.
 
+## Gancho Futuro ⚠️ (spoiler de mestre, condicional)
+Possibilidade em aberto para a Fase 4 da **[[Mesa A Maldição de Vecna]]**: Solaire atravessa a barreira entre os mundos (Lordran → Arton) para ajudar na batalha final contra Vecna. Depende de como a Mesa Lordran se resolve — não confirmado. Ver [[Fases Macro da Campanha]].
+
 ## Ligações
 - [[Artorias]]
 - [[Mesa Lordran]]
 - [[Arco - A Igreja de Marika e a Ponte]]
 - [[Arco - As Fortalezas e Anor Londo]]
+- [[Fases Macro da Campanha]]

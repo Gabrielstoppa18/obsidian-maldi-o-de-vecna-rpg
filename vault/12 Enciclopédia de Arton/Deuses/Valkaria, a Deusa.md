@@ -1,5 +1,5 @@
 ---
-tags: [deus, panteão, tormenta20]
+tags: [deus, panteão, tormenta20, campanha-relevante]
 titulo: "Deusa da Aventura, da Ambição e da Humanidade"
 alinhamento: não descrito explicitamente (liberdade, rebeldia, avessa a impor sua vontade sobre outros)
 area-de-influencia: Humanos, ambição, ousadia, evolução, conquista, aventuras
@@ -23,10 +23,15 @@ Apesar de ser a divindade mais amada de Arton, seus devotos legítimos são comp
 ## Símbolo e Domínio
 Outros nomes: Deusa da Humanidade, da Ambição e da Aventura; Deusa da Ambição; Mãe da Humanidade. Símbolo Sagrado: a Estátua de Valkaria, ou seis faixas entrelaçadas. Canalizar Energia: positiva. Arma Preferida: mangual. Cores Significativas: vermelho, púrpura. Lema: "Valkaria não criou os humanos para se ajoelharem perante os deuses. Ela os criou para superá-los."
 
+## Conexão com a Campanha
+Ironia útil: o **Templo da Pureza Divina**, culto fanático da Facção Puristas, cultua justamente **Valkaria e Arsenal** — a mesma deusa que dá nome à cidade de Valkaria da campanha, e que aqui é descrita como amando "a humanidade" em geral, não a intolerância racial. Dá pano de fundo religioso rico para os Puristas se verem como os "verdadeiros herdeiros" da ambição humana de Valkaria, distorcendo sua doutrina. Ver [[Os Puristas]] e [[Facção Puristas]].
+
 ## Ver também
 - [[Deuses — Índice]]
 - [[Tilliann]]
 - [[Kallyadranoch]]
+- [[Os Puristas]]
+- [[Facção Puristas]]
 - [[Aharadak]]
 - [[Khalmyr]]
 - [[Tauron]]

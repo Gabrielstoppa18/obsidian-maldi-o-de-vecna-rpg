@@ -1,5 +1,5 @@
 ---
-tags: [deus, panteão, tormenta20]
+tags: [deus, panteão, tormenta20, campanha-relevante]
 titulo: "Deus da Justiça"
 alinhamento: leal e bom (ordeiro-bom)
 area-de-influencia: Justiça, ordem, guerra justa, lei, paladinos, anões, luz, defesa, cavalaria, altruísmo, heroísmo, simetria
@@ -18,6 +18,9 @@ Khalmyr é um dos deuses mais populares de Arton, abençoando tribunais, cortes 
 ## Símbolo e Domínio
 Outros Nomes: Deus da Ordem; Hedryl em Lamnor; Dhayanor entre os minotauros; Heredrimm entre os anões; o Juiz Supremo. Símbolo Sagrado: espada sobreposta a uma balança. Canalizar Energia: Positiva. Arma Preferida: Espada longa. Cores Significativas: azul, branco, cinza. Lema: "Justiça seja feita."
 
+## Conexão com a Campanha
+**[[Bastian]]** é paladino de Khalmyr (Mesa dos Puristas/Mural). O verbete oficial já liga Khalmyr diretamente aos puristas como inimigo declarado ("espalhando agressivamente sua bênção a paladinos, na luta contra sszzaazitas, **puristas** e a Tormenta") — encaixe perfeito para a devoção de Bastian ter sido posta à prova justamente contra a **[[Facção Puristas]]**. Também vale notar que em Valkaria (a cidade da campanha) os juízes são sacerdotes de Khalmyr no material oficial.
+
 ## Ver também
 - [[Deuses — Índice]]
 - [[Nimb]]
@@ -27,6 +30,8 @@ Outros Nomes: Deus da Ordem; Hedryl em Lamnor; Dhayanor entre os minotauros; Her
 - [[Tilliann]]
 - [[Azgher]]
 - [[Thyatis]]
+- [[Bastian]]
+- [[Facção Puristas]]
 - [[Lin-Wu]]
 - [[Tanna-Toh]]
 - [[Aharadak]]

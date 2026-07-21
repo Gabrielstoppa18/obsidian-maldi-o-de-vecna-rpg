@@ -1,5 +1,5 @@
 ---
-tags: [deus, panteão, tormenta20]
+tags: [deus, panteão, tormenta20, campanha-relevante]
 titulo: "Deusa das Trevas"
 alinhamento: não descrito explicitamente (associada a mistério, sedução e desafio a instituições)
 area-de-influencia: Noite, anões, mortos-vivos, licantropos, desobediência, criaturas noturnas ou subterrâneas, necromantes, tentação, trevas, pólvora
@@ -23,6 +23,9 @@ O culto a Tenebra assume várias formas: em Doherimm é a religião mais popular
 ## Símbolo e Domínio
 Outros nomes: Deusa das Trevas e dos Mortos-Vivos; Lulna (entre os minotauros); Luah-Kai (entre os trogloditas); Ayrelynn (entre os anões); Mãe Noite (entre os mortos-vivos). Símbolo Sagrado: estrela de cinco pontas. Canalizar Energia: negativa. Arma Preferida: adaga. Cores Significativas: preto, roxo, azul escuro. Lema: "Algo tão belo quanto a noite não pode ser maligno."
 
+## Conexão com a Campanha
+A linha "especula-se que ela esteja lentamente assumindo o portfólio da Morte" é o ponto de partida perfeito para o plano de **[[Vecna (Asloth Ferren)|Vecna]]**: matá-la/enfraquecê-la para tomar seu lugar entre **[[Os Vinte]]** como novo Deus da Morte. Ver [[Vecna (Asloth Ferren)]] e [[Campanha x Livros de Tormenta]].
+
 ## Ver também
 - [[Deuses — Índice]]
 - [[Azgher]]
@@ -36,3 +39,5 @@ Outros nomes: Deusa das Trevas e dos Mortos-Vivos; Lulna (entre os minotauros); 
 - [[Aharadak]]
 - [[Leen]]
 - [[Ragnar]]
+- [[Vecna (Asloth Ferren)]]
+- [[Os Vinte]]

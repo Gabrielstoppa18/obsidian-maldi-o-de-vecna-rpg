@@ -1,5 +1,5 @@
 ---
-tags: [deus, panteão, tormenta20]
+tags: [deus, panteão, tormenta20, campanha-relevante]
 titulo: "Deus da Honra"
 alinhamento: leal e bom (código de honra rígido e absoluto)
 area-de-influencia: Honra, dignidade, honestidade, nobreza, Tamu-ra
@@ -18,10 +18,15 @@ Em Tamu-ra, sociedade guiada pela honra, clero e nobreza imperial são uma só c
 ## Símbolo e Domínio
 Outros Nomes: Deus da Honra e de Tamu-ra; Deus Dragão; Deus Samurai; Samurai de Sangue; o Mais Honrado; Portador da Honra; Espadachim Trovejante. Símbolo Sagrado: um dragão celestial. Canalizar Energia: Qualquer. Arma Preferida: Katana. Cores Significativas: vermelho, verde, dourado. Lema: "A honra é mais valiosa que a vida. Antes perder a vida que perder a honra."
 
+## Conexão com a Campanha
+**Xiao Dre** (Mesa Lordran) deixou a cidade natal para treinar com os devotos de Lin-Wu — foi durante esse treinamento que morreu em um acidente, a perda que moldou toda a vida de **[[Duran Barba Verde|Duran]]**, seu melhor amigo de infância.
+
 ## Ver também
 - [[Deuses — Índice]]
 - [[Azgher]]
 - [[Khalmyr]]
+- [[Duran Barba Verde]]
+- [[Xiao Dre]]
 - [[Thyatis]]
 - [[Lena]]
 - [[Marah]]

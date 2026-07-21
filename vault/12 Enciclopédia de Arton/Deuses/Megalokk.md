@@ -1,5 +1,5 @@
 ---
-tags: [deus, panteão, tormenta20]
+tags: [deus, panteão, tormenta20, campanha-relevante]
 titulo: "Deus dos Monstros"
 alinhamento: caótico e malévolo (implícito pela conduta)
 area-de-influencia: Monstros, morte, fúria, destruição
@@ -20,11 +20,16 @@ Seus devotos raramente constroem templos, com exceções notáveis: os finntroll
 ## Símbolo e Domínio
 Símbolo Sagrado: figura de uma garra ou monstro. Canalizar Energia: Negativa. Arma Preferida: Maça. Cores Significativas: nenhuma. Outros nomes: Fin-Horak (dragões), o Destruidor (centauros), Typhon (nagahs), Sugora (tamuranianos), o Indomável (moreau), Makalax (anões), Troldhaugen (finntroll), Monstro-Pai (entre quase todos os monstros). Lema: "Humanos, elfos, anões... Todos devem morrer."
 
+## Conexão com a Campanha
+**[[Duran Barba Verde|Duran]]** é devoto de Megalokk — foi Megalokk quem cedeu a alma dele para **[[Vecna (Asloth Ferren)|Vecna]]** ressuscitá-lo como General. Megalokk também dá ajuda oportunista a Vecna cedendo monstros para distrair o grupo (ver [[Fases Macro da Campanha]]).
+
 ## Ver também
 - [[Deuses — Índice]]
 - [[Allihanna]]
 - [[Khalmyr]]
 - [[Kallyadranoch]]
+- [[Duran Barba Verde]]
+- [[Vecna (Asloth Ferren)]]
 - [[Tenebra]]
 - [[Thwor]]
 - [[Valkaria]]

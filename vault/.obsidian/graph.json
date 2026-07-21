@@ -90,6 +90,55 @@
         "a": 1,
         "rgb": 11579568
       }
+    },
+    {
+      "query": "path:\"12 Enciclopédia de Arton/Deuses\"",
+      "color": {
+        "a": 1,
+        "rgb": 13938487
+      }
+    },
+    {
+      "query": "path:\"12 Enciclopédia de Arton/Raças\"",
+      "color": {
+        "a": 1,
+        "rgb": 3050379
+      }
+    },
+    {
+      "query": "path:\"12 Enciclopédia de Arton/Itens Mágicos\"",
+      "color": {
+        "a": 1,
+        "rgb": 9055202
+      }
+    },
+    {
+      "query": "path:\"12 Enciclopédia de Arton/Locais de Arton\"",
+      "color": {
+        "a": 1,
+        "rgb": 3978097
+      }
+    },
+    {
+      "query": "path:\"12 Enciclopédia de Arton/Ameaças\"",
+      "color": {
+        "a": 1,
+        "rgb": 11674146
+      }
+    },
+    {
+      "query": "tag:#campanha-relevante",
+      "color": {
+        "a": 1,
+        "rgb": 16747520
+      }
+    },
+    {
+      "query": "tag:#vilão",
+      "color": {
+        "a": 1,
+        "rgb": 4915330
+      }
     }
   ],
   "collapse-display": true,
@@ -102,6 +151,6 @@
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 220,
-  "scale": 0.18462326225857364,
+  "scale": 0.3628873693011931,
   "close": true
 }

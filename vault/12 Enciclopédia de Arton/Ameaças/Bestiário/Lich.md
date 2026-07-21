@@ -1,5 +1,5 @@
 ---
-tags: [ameaça, monstro, tormenta20]
+tags: [ameaça, monstro, tormenta20, campanha-relevante]
 tipo: morto-vivo
 nd: 15
 ---
@@ -18,3 +18,5 @@ Entre os mortos-vivos mais poderosos e temidos de Arton, arcanista transformado 
 ## Ver também
 - [[Bestiário — Índice]]
 - [[Lich de Aslothia]]
+- [[Vecna (Asloth Ferren)]]
+- [[Arco - O Quinteto Revivido e o Primeiro Confronto]]

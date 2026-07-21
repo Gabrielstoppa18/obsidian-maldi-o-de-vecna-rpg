@@ -1,5 +1,5 @@
 ---
-tags: [raça, tormenta20]
+tags: [raça, tormenta20, campanha-relevante]
 fonte: "Livro Básico"
 bonus-atributo: "Constituição +2, Força +1, Inteligência -1"
 ---
@@ -14,5 +14,9 @@ Trogloditas (ou "trogs") são homens-lagarto primitivos e subterrâneos que odei
 - **Reptiliano**: criatura do tipo monstro; visão no escuro; +1 na Defesa; +5 em Furtividade se sem armadura/roupas pesadas.
 - **Sangue Frio**: sofre 1 ponto de dano adicional por dado de dano de frio.
 
+## Conexão com a Campanha
+**[[Rod Trogg]]** — o sobrenome é praticamente a etiqueta da raça. Encaixa perfeitamente no texto oficial: "uns poucos divergem da crueldade... acabam aceitos como colegas por aventureiros tão estranhos e deslocados quanto eles próprios" descreve exatamente como ele entra pro grupo na taverna.
+
 ## Ver também
 - [[Raças — Índice]]
+- [[Rod Trogg]]

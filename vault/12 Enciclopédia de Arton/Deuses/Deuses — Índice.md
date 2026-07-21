@@ -6,6 +6,10 @@ tags: [índice, moc, deuses, tormenta20]
 
 O Panteão de Arton nasceu do Nada e do Vazio: vinte divindades maiores, lideradas por Khalmyr. Ver [[Campanha x Livros de Tormenta]] para a ligação com "Os Vinte" da nossa campanha.
 
+> [!tip] Relevantes para a Campanha
+> Estes já têm uma seção "Conexão com a Campanha" no próprio verbete — tag `campanha-relevante` (use no Graph View do Obsidian para dar cor própria a esse grupo):
+> [[O Nada e o Vazio]] · [[Tenebra, a Deusa|Tenebra]] · [[Wynna]] · [[Lena]] · [[Azgher]] · [[Khalmyr]] · [[Lin-Wu]] · [[Megalokk]] · [[Valkaria, a Deusa|Valkaria]]
+
 ## Origem
 
 - [[O Nada e o Vazio]] — as duas entidades cósmicas primordiais que, unidas, deram origem às vinte divindades do Panteão.

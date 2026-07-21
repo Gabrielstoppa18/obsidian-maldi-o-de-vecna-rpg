@@ -1,5 +1,5 @@
 ---
-tags: [ameaça, organização, tormenta20]
+tags: [ameaça, organização, tormenta20, campanha-relevante]
 ---
 
 # Reino dos Mortos
@@ -12,5 +12,10 @@ No topo da sociedade aslothiana está a nobreza vampírica. Tornar-se vampiro é
 
 Como ameaça, o Reino dos Mortos opera em duas escalas: exércitos numerosos e descartáveis de mortos-vivos de baixo nível que podem ser mobilizados em massa sem preocupação com baixas, e uma elite de necromantes e vampiros que jogam um longo jogo político e sobrenatural, manipulando gerações inteiras enquanto seus súditos imortais nunca envelhecem nem desertam. É uma nação estável precisamente porque a morte deixou de ser um obstáculo para seus governantes.
 
+## Conexão com a Campanha
+Este é o reino de **[[Aslothia]]**, terra natal de Ferren Asloth — o **[[Vecna (Asloth Ferren)|Vecna]]** da campanha. As falanges de esqueletos e a estrutura de "exército numeroso e descartável + elite que joga um longo jogo político" descritas aqui servem de modelo direto para o exército de mortos-vivos que Vecna está erguendo com as almas colhidas de Mural — ver [[Arco - O Quinteto Revivido e o Primeiro Confronto]].
+
 ## Ver também
 - [[Organizações e Perigos — Índice]]
+- [[Aslothia]]
+- [[Vecna (Asloth Ferren)]]

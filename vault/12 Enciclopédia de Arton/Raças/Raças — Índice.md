@@ -6,6 +6,10 @@ tags: [índice, moc, raças, tormenta20]
 
 Raças jogáveis de Tormenta20 (Livro Básico + Heróis de Arton) e raças/traços homebrew usados na mesa (Raças Extras).
 
+> [!tip] Relevantes para a Campanha
+> Raças de PCs, com seção "Conexão com a Campanha" no próprio verbete — tag `campanha-relevante`:
+> [[Golem]] ([[Al (Golem)|Al]]) · [[Trog]] ([[Rod Trogg]]) · [[Sílfide]] ([[Tinky Winky]]) · [[Qareen]] ([[Al Hazar Placeto]], [[José Bezerra]]) · [[Suraggel]] ([[Jaskier]]) · [[Lefou]] ([[Hevel]]) · [[Kliren]] ([[Balkur]]) · [[Humano]] ([[Malkor]], [[Bastian]], outros)
+
 ## Raças Core — Livro Básico
 
 - [[Humano]] — +1 em três atributos diferentes

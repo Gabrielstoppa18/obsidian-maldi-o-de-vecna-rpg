@@ -1,5 +1,6 @@
 ---
 tags: [npc, trio-academia, vilão, travado-até-lordran]
+categoria: vilão principal (todas as mesas)
 status: incerto — provavelmente em Lordran ou agindo nos bastidores
 ---
 
@@ -15,7 +16,7 @@ Um dos três alunos mais brilhantes da **Academia Arcana**, ao lado de **[[Sator
 Depois, enviou a Gojo uma carta desesperada pedindo ajuda — uma armadilha. Capturou o amigo e o usou em um ritual profano que o transformou em um pato antropomórfico e corrompeu sua alma, usada para ressuscitar **[[Vecna (Asloth Ferren)|Vecna]]**. Sukuna também se corrompeu no processo, tornando-se o coelho **Buggs**, peão de Vecna. Fundou o **[[Culto do Olho]]** e estuda magia proibida de alma/essência.
 
 ## Suspeitas
-**[[Lora]]** suspeita que Sukuna se tornou Buggs — revelado a Puristas na sessão mais recente, mas não confirmado.
+**[[Lora]]** suspeita que Sukuna se tornou Buggs — revelado ao grupo da [[Mesa A Maldição de Vecna]] na sessão mais recente, mas não confirmado.
 
 ## Localização Atual — Confirmada em Lordran
 Orquestrou toda a "profecia dos escolhidos" que puxou **[[Patolino]]**, **[[Príncipe Benimaru|Benimaru]]**, **[[Duran Barba Verde|Duran]]** e **[[Ojuara]]** para Lordran, manipulando-os através de Lautrec e do gigante controlado para matarem deuses e roubar energia divina. Revela-se ao grupo após a primeira fortaleza — sua verdadeira forma em Lordran é a de **um coelho**. Também aparece pessoalmente no arco do Inferno de Benimaru, logo após o primeiro inimigo enfrentado lá.
